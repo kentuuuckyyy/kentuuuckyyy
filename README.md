@@ -1,8 +1,8 @@
 [![Serknet](https://r2.fivemanage.com/f6UgsuPuvM777m0UMQiq6/image(27).png)](https://serknet.xyz/)
 
-#  I'm Zax
+#  I'm k3.stw
 
-**Co-Owner and Software Developer at Serknet**
+**Software Developer at Serknet**
 
 ---
 
@@ -10,7 +10,7 @@
 
 - 🌐 All of my projects are available at [serknet.xyz](https://serknet.xyz) and [ticket-hub.app](https://ticket-hub.app/)
 - 💬 Ask me about: `Lua`, `JavaScript`, `HTML`, `CSS`, `TypeScript`
-- 📫 How to reach me: **zax@serknet.xyz**
+- 📫 How to reach me: **admin@serknet.xyz**
 
 ---
 
@@ -31,9 +31,6 @@
 <p align="left">
   <a href="https://twitter.com/serknetpr" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/vxyxrill" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/@serknet" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
